@@ -1,6 +1,6 @@
 # Data-Analysis-Python-Project---Blinkit-Analysis
 
-## 📌 Project Summary
+## Project Summary
 
 This project analyzes Blinkit's retail sales data to uncover meaningful business insights using Python. The objective is to clean, explore, and visualize the dataset to understand sales patterns, product performance, and outlet characteristics.
 
@@ -8,7 +8,7 @@ The analysis transforms raw transactional data into clear, decision-support insi
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Analyze total sales performance across different dimensions
 * Identify top-performing product categories
@@ -18,7 +18,7 @@ The analysis transforms raw transactional data into clear, decision-support insi
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 * **Language:** Python
 * **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
@@ -26,7 +26,7 @@ The analysis transforms raw transactional data into clear, decision-support insi
 
 ---
 
-## 📊 Key Analysis Performed
+##  Key Analysis Performed
 
 ### 🔹 Data Cleaning & Preprocessing
 
@@ -53,7 +53,7 @@ The analysis transforms raw transactional data into clear, decision-support insi
 
 ---
 
-## 📈 Business Insights
+## Business Insights
 
 * Identified which product categories drive the highest revenue
 * Compared outlet performance across sizes and locations
@@ -62,7 +62,7 @@ The analysis transforms raw transactional data into clear, decision-support insi
 
 ---
 
-## 💡 Skills Demonstrated
+## Skills Demonstrated
 
 * Data Cleaning & Transformation
 * Exploratory Data Analysis
@@ -73,7 +73,7 @@ The analysis transforms raw transactional data into clear, decision-support insi
 
 ---
 
-## 🚀 Outcome
+## Outcome
 
 This project showcases my ability to work with real-world retail data, clean inconsistencies, perform structured analysis, and present insights in a clear and business-focused manner. It reflects practical data analytics skills suitable for entry-level Data Analyst roles.
 
