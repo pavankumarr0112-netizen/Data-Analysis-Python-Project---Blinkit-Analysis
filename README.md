@@ -28,14 +28,14 @@ The analysis transforms raw transactional data into clear, decision-support insi
 
 ##  Key Analysis Performed
 
-### 🔹 Data Cleaning & Preprocessing
+### - Data Cleaning & Preprocessing
 
 * Handled inconsistent category labels (e.g., variations in Item Fat Content)
 * Standardized categorical values
 * Checked data types and ensured proper formatting
 * Explored missing values and unique values
 
-### 🔹 Exploratory Data Analysis (EDA)
+### - Exploratory Data Analysis (EDA)
 
 * Total Sales by Item Fat Content
 * Total Sales by Item Type
@@ -44,7 +44,7 @@ The analysis transforms raw transactional data into clear, decision-support insi
 * Sales by Outlet Establishment Year
 * Comparative analysis across outlet categories
 
-### 🔹 Visualization Techniques
+### - Visualization Techniques
 
 * Bar charts
 * Pie charts
