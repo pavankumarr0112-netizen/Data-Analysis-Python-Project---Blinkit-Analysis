@@ -75,4 +75,4 @@ The analysis transforms raw transactional data into clear, decision-support insi
 
 ## Outcome
 
-This project showcases my ability to work with real-world retail data, clean inconsistencies, perform structured analysis, and present insights in a clear and business-focused manner. It reflects practical data analytics skills suitable for entry-level Data Analyst roles.
+This project showcases my ability to work with real-world retail data, clean inconsistencies, perform structured analysis, and present insights in a clear and business-focused manner. It reflects practical data analytics skills suitable for entry-level Data Analyst roles. 
